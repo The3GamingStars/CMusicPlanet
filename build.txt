@@ -1,0 +1,3 @@
+displayName = Calamity Music: Planetoids & Abyss Miniboss
+author = Taiphoon
+version = 1.0
